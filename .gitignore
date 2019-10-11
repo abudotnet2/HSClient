@@ -14,6 +14,9 @@
 chrome-profiler-events*.json
 speed-measure-plugin*.json
 
+#ignore
+node_modules/
+
 # IDEs and editors
 /.idea
 .project
